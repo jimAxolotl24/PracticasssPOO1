@@ -1,4 +1,4 @@
-# PracticasssPOO1
+# PracticasssPOO1 - JIMENA SOFÍA DÍAZ SÁNCHEZ 2ºB
 # Repositorio de Ejercicios de Python
 
 Este repositorio contiene ejercicios organizados por temas de programación en Python. Cada carpeta corresponde a una unidad temática con sus respectivos archivos `.py`.
@@ -40,6 +40,4 @@ Este repositorio contiene ejercicios organizados por temas de programación en P
 - [P16-masdeHilosyRed.py](p16-HILOSyRED/P16-masdeHilosyRed.py)
 
 ---
-
-📁 **Nota**: Cada archivo está ordenado por temas para facilitar su exploración y práctica.
 
